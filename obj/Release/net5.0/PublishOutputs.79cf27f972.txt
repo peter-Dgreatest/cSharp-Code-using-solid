@@ -1,0 +1,4 @@
+/Users/peterenenche/Projects/Assignment/Assignment/bin/Release/net5.0/publish/Assignment.dll
+/Users/peterenenche/Projects/Assignment/Assignment/bin/Release/net5.0/publish/Assignment.deps.json
+/Users/peterenenche/Projects/Assignment/Assignment/bin/Release/net5.0/publish/Assignment.runtimeconfig.json
+/Users/peterenenche/Projects/Assignment/Assignment/bin/Release/net5.0/publish/Assignment.pdb
